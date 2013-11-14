@@ -1,14 +1,16 @@
-CodeIgniter-Indonesia-Langpack
+CodeIgniter Indonesia Language Pack
 ==============================
-Bahasa Indonesia untuk CodeIgniter
-Versi CodeIgniter: 2.1.4
-Versi update: 1.0
+Dukungan Bahasa Indonesia untuk CodeIgniter<br>
+Versi CodeIgniter: 2.1.4<br>
+Versi Paket Bahasa: 1.0
 
 Instalasi:
 ==========
-1. Taruh pada direktori application/language
-2. Ubah konfigurasi pada application/config/config.php :
+1. Download di https://github.com/masdevid/CodeIgniter-Indonesia-Langpack
+2. Taruh folder <b>indonesia</b> pada direktori application/language
+3. Ubah konfigurasi pada application/config/config.php <br>
    $config['language']	= 'indonesia';
 
-Download di https://github.com/masdevid/CodeIgniter-Indonesia-Langpack
-Kontak E-mail: devid.wahid@gmail.com
+Kontak Saya:
+========
+<b>Devid Haryalesmana</b><br> (devid.wahid@gmail.com)
